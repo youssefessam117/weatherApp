@@ -1,0 +1,49 @@
+nav{
+    background-color: #1e202b !important;
+}
+.active{
+    border: 2px solid #09c;
+    border-radius: 30px;
+    padding: 5px 20px !important;
+    color: #09c !important;
+}
+.hoverAnimat{
+    transition: all 0.5s ease;
+}
+.hoverAnimat:hover{
+    border: 2px solid #09c !important;
+    border-radius: 30px;
+    padding: 5px 20px !important;
+    color: #09c !important;
+}
+header{
+    background-image: url(../img/2830.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.tembBox{
+    background-color: rgba(0, 0, 0,0.8);
+    overflow: hidden;
+    
+}
+.tembBox1{
+    padding: 20px 0px;
+}
+.tembBox23{
+    padding: 36.5px 0px;
+}
+.dayBox{
+    background-color: black;
+    padding: 3px 10px;
+}
+.burlywood{
+    color:burlywood;
+}
+.animate44:hover{
+    transform: scale(1.1);
+}
+.animate44{
+    transition: all 0.5s ease-in-out;
+}
